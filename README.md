@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/94422c57-f684-47ca-a43d-f9b1711610eb)
+
+
 # Alcohol-Export-Analysis
 
 Alcohol consumption in Nigeria dates back to ancient times, traditionally from drinks made from palm trees and grains. With the growth of trade opportunities, Nigeria has adapted to meet the increasing international demand for malt-based beer. This analysis examines 37 trade records sourced from [trade.un.org](https://trade.un.org)
