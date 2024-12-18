@@ -26,4 +26,16 @@ Alcohol consumption in Nigeria dates back to ancient times, traditionally from d
 ### Limitation
 Due to data accessibility restrictions for non-subscribers on [trade.un.org](https://trade.un.org), I was unable to gather additional data for a more in-depth and comprehensive analysis.
 
+### Conclusion
+The analysis of Nigeria's alcoholic beverage exports in 2023 reveals key trajectory in trade volume, value, and trading partners. The data shows a strong relationship between export quantities and trade values, particularly with the United Kingdom, which accounted for the majority of the export value. The monthly export trend highlights significant variations, with higher export volumes and values in certain months, particularly September and December. Despite the valuable revelation gained from the 37 trade records sourced from [trade.un.org](https://trade.un.org), the study's depth was constrained by data accessibility limitations.
+
+### Recommendations:
+- *Expand Data Access:* Future analyses would benefit from broader access to data by subscribing to comprehensive trade data platforms to ensure more complete and detailed insights, including additional trading partners and trade categories.
+
+- *Monitor Seasonal Trends:* Given the variations in monthly export volumes, it is recommended to further investigate the underlying causes of these seasonal fluctuations, such as market demand, seasonal promotions, or production cycles, to better plan for future exports.
+
+- *Diversify Trading Partners:* While the United Kingdom is a dominant trading partner, it is advisable for Nigeria to explore expanding trade relationships with other countries to reduce dependency and increase market resilience.
+
+
+
 
